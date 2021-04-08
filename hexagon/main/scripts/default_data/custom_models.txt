@@ -11,9 +11,9 @@
 	modelname = "Scout",
 	model = game:GetObjects("rbxassetid://6587879507")[1]["Scout"]
 },{
-        weaponname = "Railgun",
-        modelname = "AWP",
-        model = game:GetObjects("rbxassetid://6477284418")[1]["AWP"]
+	weaponname = "Old AWP",
+	modelname = "AWP",
+	model = game:GetObjects("rbxassetid://6587879507")[1]["AWP"]
 },{
 	weaponname = "Old USP",
 	modelname = "USP",
@@ -39,7 +39,39 @@
 	modelname = "Flip Knife",
 	model = game:GetObjects("rbxassetid://6587879507")[1]["Flip Knife"]
 },{
-       weaponname = "Shadow Daggers",
-       modelname = "Karambit",
-       model = game:GetObjects("rbxassetid://6487384650")[1]
+	weaponname = "Crewmate",
+	modelname = "Bayonet",
+	model = game:GetObjects("rbxassetid://6500791405")[1]
+},{
+        weaponname = "Pickaxe",
+        modelname = "Sickle",
+        model = game:GetObjects("rbxassetid://6478215819")[1]
+},{
+        weaponname = "Barrett",
+        modelname = "AWP",
+        model = game:GetObjects("rbxassetid://6477308219")[1]
+},{
+        weaponname = "Railgun",
+        modelname = "AWP",
+        model = game:GetObjects("rbxassetid://6477284418")[1]
+},{
+        weaponname = "Energy Blade",
+        modelname = "Bayonet",
+        model = game:GetObjects("rbxassetid://6477297801")[1]
+},{
+        weaponname = "Shadow Daggers",
+        modelname = "Karambit",
+        model = game:GetObjects("rbxassetid://6487384650")[1]
+},{
+        weaponname = "Sword",
+        modelname = "Butterfly Knife",
+        model = game:GetObjects("rbxassetid://6476945399")[1]
+},{
+        weaponname = "Mosin",
+        modelname = "Scout",
+        model = game:GetObjects("rbxassetid://6482207385")[1]
+},{
+        weaponname = "AWP without scope",
+        modelname = "AWP",
+        model = game:GetObjects("rbxassetid://6578171344")[1]
 }}
