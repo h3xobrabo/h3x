@@ -39,7 +39,7 @@
 	modelname = "Flip Knife",
 	model = game:GetObjects("rbxassetid://6587879507")[1]["Flip Knife"]
 },{
-	weaponname = "Crewmate",
-	modelname = "Bayonet",
-	model = game:GetObjects("rbxassetid://6500791405")[1]
+       weaponname = "Shadow Daggers",
+       modelname = "Karambit",
+       model = game:GetObjects("rbxassetid://6487384650")[1]
 }}
